@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which Flutter widget is used to navigate between pages?",
+    "answers": [
+      "Navigator",
+      "Container",
+      "Column",
+      "Padding"
+    ],
+    "correctAnswer": "Navigator"
+  },
+  {
+    "question": "Which method adds a new page to the navigation stack?",
+    "answers": [
+      "Navigator.push()",
+      "Navigator.pop()",
+      "setState()",
+      "runApp()"
+    ],
+    "correctAnswer": "Navigator.push()"
+  },
+  {
+    "question": "Which method removes the current page from the stack?",
+    "answers": [
+      "Navigator.pop()",
+      "Navigator.push()",
+      "pushReplacement()",
+      "runApp()"
+    ],
+    "correctAnswer": "Navigator.pop()"
+  },
+  {
+    "question": "Which navigation method replaces the current page?",
+    "answers": [
+      "pushReplacement()",
+      "popUntil()",
+      "pushNamed()",
+      "showDialog()"
+    ],
+    "correctAnswer": "pushReplacement()"
+  },
+  {
+    "question": "Which widget provides a side menu in Flutter?",
+    "answers": [
+      "Drawer",
+      "GridView",
+      "Container",
+      "Expanded"
+    ],
+    "correctAnswer": "Drawer"
+  },
+  {
+    "question": "Which widget is commonly used for bottom navigation?",
+    "answers": [
+      "BottomNavigationBar",
+      "AppBar",
+      "Column",
+      "Text"
+    ],
+    "correctAnswer": "BottomNavigationBar"
+  },
+  {
+    "question": "Which widget is used to display tabs at the top?",
+    "answers": [
+      "TabBar",
+      "Drawer",
+      "SnackBar",
+      "Icon"
+    ],
+    "correctAnswer": "TabBar"
+  },
+  {
+    "question": "Which widget is used to show pop-up messages?",
+    "answers": [
+      "AlertDialog",
+      "GridView",
+      "Navigator",
+      "Expanded"
+    ],
+    "correctAnswer": "AlertDialog"
+  },
+  {
+    "question": "Which widget is best for long scrollable lists?",
+    "answers": [
+      "ListView",
+      "Container",
+      "Center",
+      "Icon"
+    ],
+    "correctAnswer": "ListView"
+  },
+  {
+    "question": "Which widget displays items in rows and columns?",
+    "answers": [
+      "GridView",
+      "Drawer",
+      "Scaffold",
+      "Padding"
+    ],
+    "correctAnswer": "GridView"
+  },
+  {
+    "question": "Which ListView type builds items dynamically?",
+    "answers": [
+      "ListView.builder",
+      "SingleChildScrollView",
+      "Column",
+      "Row"
+    ],
+    "correctAnswer": "ListView.builder"
+  },
+  {
+    "question": "Which widget allows only one scrollable child?",
+    "answers": [
+      "SingleChildScrollView",
+      "GridView",
+      "TabBar",
+      "Drawer"
+    ],
+    "correctAnswer": "SingleChildScrollView"
+  },
+  {
+    "question": "Which GridView type is best for large dynamic data?",
+    "answers": [
+      "GridView.builder",
+      "GridView.count",
+      "GridView.extent",
+      "Container"
+    ],
+    "correctAnswer": "GridView.builder"
+  },
+  {
+    "question": "Which widget combines multiple scrollable widgets together?",
+    "answers": [
+      "CustomScrollView",
+      "Container",
+      "Scaffold",
+      "Text"
+    ],
+    "correctAnswer": "CustomScrollView"
+  },
+  {
+    "question": "Which widget handles nested scrolling smoothly?",
+    "answers": [
+      "NestedScrollView",
+      "Padding",
+      "GridTile",
+      "Expanded"
+    ],
+    "correctAnswer": "NestedScrollView"
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": [
+      "Application Programming Interface",
+      "Application Program Internet",
+      "Advanced Program Integration",
+      "Automatic Page Interface"
+    ],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "question": "Which format is commonly used for API responses?",
+    "answers": [
+      "JSON",
+      "HTML",
+      "CSS",
+      "PNG"
+    ],
+    "correctAnswer": "JSON"
+  },
+  {
+    "question": "Which package is commonly used for HTTP requests in Flutter?",
+    "answers": [
+      "http",
+      "material",
+      "async",
+      "convert"
+    ],
+    "correctAnswer": "http"
+  },
+  {
+    "question": "Which HTTP method is used to retrieve data?",
+    "answers": [
+      "GET",
+      "POST",
+      "DELETE",
+      "PUT"
+    ],
+    "correctAnswer": "GET"
+  },
+  {
+    "question": "Which HTTP method is used to send data to the server?",
+    "answers": [
+      "POST",
+      "GET",
+      "FETCH",
+      "REMOVE"
+    ],
+    "correctAnswer": "POST"
+  },
+  {
+    "question": "Which function converts JSON text into Dart objects?",
+    "answers": [
+      "jsonDecode()",
+      "runApp()",
+      "setState()",
+      "Navigator.push()"
+    ],
+    "correctAnswer": "jsonDecode()"
+  },
+  {
+    "question": "Which widget helps display API data asynchronously?",
+    "answers": [
+      "FutureBuilder",
+      "Container",
+      "Expanded",
+      "TabBar"
+    ],
+    "correctAnswer": "FutureBuilder"
+  },
+  {
+    "question": "Which connection state indicates loading?",
+    "answers": [
+      "ConnectionState.waiting",
+      "ConnectionState.done",
+      "ConnectionState.none",
+      "ConnectionState.active"
+    ],
+    "correctAnswer": "ConnectionState.waiting"
+  },
+  {
+    "question": "Which widget shows a loading spinner in Flutter?",
+    "answers": [
+      "CircularProgressIndicator",
+      "ListView",
+      "Drawer",
+      "Card"
+    ],
+    "correctAnswer": "CircularProgressIndicator"
+  },
+  {
+    "question": "Which Flutter widget is the root layout structure for pages?",
+    "answers": [
+      "Scaffold",
+      "Padding",
+      "Center",
+      "Icon"
+    ],
+    "correctAnswer": "Scaffold"
+  }
+]
